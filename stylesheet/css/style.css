@@ -38,12 +38,12 @@ img.logo {
   width: 15%;
   height: 85px;
   display: inline-table;
-  border-radius: 5px;
   text-align: center;
+  background-color: #fff;
 }
 
 .bom {
-  background-color: rgba(69, 191, 85, 0.6);
+  background-color: rgba(69, 191, 85, 0.5);
 }
 
 .podeMelhorar {
@@ -51,7 +51,7 @@ img.logo {
 }
 
 .ruim {
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(252, 67, 73, 0.4);
 }
 
 .rodape {

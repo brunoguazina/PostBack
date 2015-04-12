@@ -36,18 +36,18 @@ img.logo {
     width: 15%;
     height: 85px;
     display: inline-table;
-    border-radius: 5px;
     text-align: center;
+    background-color: #fff;
 }
 
 .bom {
-    background-color: transparentize(#45BF55, .4%);
+    background-color: transparentize(#45BF55, .5%);
 }
 .podeMelhorar {
-    background-color: transparentize(yellow, .5%);;   
+    background-color: transparentize(yellow, .5%);
 }
 .ruim {
-    background-color: transparentize(red, .6%);
+    background-color: transparentize(#FC4349, .6%);
 }
 
 .rodape {
