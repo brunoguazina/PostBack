@@ -1,0 +1,63 @@
+html,
+body {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ebebeb;
+    height: 100%;
+}
+
+.master {
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+}
+.topo {
+    border-top: solid 5px #fbdb00;
+    width: 100%;
+    background: #fbfbfb;
+    box-shadow: 0 2px 1px #dedede;
+}
+img.logo {
+    width: 175px;
+    margin: 4px auto 0 auto;
+}
+
+.centralizado {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.postIt {
+    font-weight: lighter;
+    margin: .5% 0 0 .5%;
+    padding: .5%;
+    width: 15%;
+    height: 85px;
+    display: inline-table;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.bom {
+    background-color: transparentize(#45BF55, .4%);
+}
+.podeMelhorar {
+    background-color: transparentize(yellow, .5%);;   
+}
+.ruim {
+    background-color: transparentize(red, .6%);
+}
+
+.rodape {
+    margin-top: -60px;
+    padding: 20px 5%;
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    box-shadow: 0 -2px 1px #dedede;
+    background: #fbfbfb;
+}
