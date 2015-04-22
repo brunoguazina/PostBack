@@ -92,6 +92,13 @@ i {
   text-align: center;
   display: inline-table;
 }
+
+.positivo.ativo {
+    color: green !important;
+}
+.negativo.ativo {
+    color: red;
+}
 .postIt {
     margin: .5% 0 0 .3%;
     padding: .5%;
